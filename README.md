@@ -12,7 +12,12 @@
 - Habibullah Wardak
 - Sidhardha Neupane
 - Ka Kit Law
-- Brook Lee (aka Andrey)
+- Zhonghua Li
 
 ## Some useful links
 - Presentation on [Google Docs](https://docs.google.com/presentation/d/1BDrsoztArDb4ak4H60tENnYWOJW9O4x3A4PfyusITWM/)
+
+## Tools 
+- IntelliJ PyCharm [Community Version](https://www.jetbrains.com/ru-ru/pycharm/download/)
+- Git [git-scm](https://git-scm.com/download/) - Git GUI is optional (you don't need it if you install PyCharm)
+
