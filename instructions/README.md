@@ -1,4 +1,4 @@
 ## SOME INSTRUCTIONS
 
-- [HOW TO INSTALL HORTONWORKS DATA PLATFORM](install-hdp.md)  
+- [LOGIN CREDENTIALS](login-information.md)  
 
