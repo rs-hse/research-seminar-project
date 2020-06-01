@@ -30,3 +30,10 @@
 - Try to run hive
 
     `$HIVE\bin\hive`
+      
+- Run HiveServer2
+`$HIVE_HOME/bin/schematool -dbType derby -initSchema`
+
+- Create a schema
+
+    `CREATE SCHEMA twitter_tops;`
